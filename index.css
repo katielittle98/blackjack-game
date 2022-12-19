@@ -1,0 +1,49 @@
+body {
+    text-align: center;
+    background-color: green;
+    color: white;
+    font-family: 'Trebuchet MS';
+    background-image:
+    linear-gradient(180deg,
+                                		rgba(0,0,0,0.5) 0%,
+                                		rgba(0,0,0,0.4) 100%),  
+    url(https://media.istockphoto.com/id/1218355494/vector/poker-table-background-in-green-color.jpg?s=612x612&w=0&k=20&c=qJ-IauRqbIhaeQ5CXZxwysghJUm1VE5wW0odCiFt4yg=);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    font-weight: bold;
+    font-size: 25px;
+    margin: 30px;
+
+}
+
+
+h1 {
+    color: goldenrod;
+}
+
+#message-el {
+    font-style: italic;
+}
+
+.btn {
+    background-color: goldenrod;
+    color: green;
+    font-family: 'Trebuchet MS';
+    font-size: 15px;
+    border: none;
+    width: 150px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    border-radius: 2px;
+    margin-top: 10px;
+    margin-bottom: 10px;
+
+}
+
+.btn:hover {
+    color: goldenrod;
+    background-color: green;
+    border: 1px solid goldenrod;
+}
+
